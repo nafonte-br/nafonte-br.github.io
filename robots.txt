@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nafonte-br.github.io/sitemap.xml
